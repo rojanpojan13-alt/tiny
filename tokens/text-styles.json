@@ -11,7 +11,9 @@
       "letterSpacing": {
         "unit": "PERCENT",
         "value": -1
-      }
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
     },
     "$type": "typography",
     "$description": "Page titles"
@@ -28,7 +30,9 @@
       "letterSpacing": {
         "unit": "PERCENT",
         "value": 0
-      }
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
     },
     "$type": "typography"
   },
@@ -44,7 +48,8 @@
         "unit": "PERCENT",
         "value": 2
       },
-      "textCase": "UPPER"
+      "textCase": "UPPER",
+      "textDecoration": "NONE"
     },
     "$type": "typography",
     "$extensions": {
